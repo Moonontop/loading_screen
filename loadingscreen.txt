@@ -5,7 +5,7 @@ LoadingText3 = "Getting Script"
 LoadingText4 = "Executing Script"
 LoadingText5 = "Error: Execution Failed, re-trying!"
 
-local ScriptTitle = "Pet Simulator 99: Script Loading"
+local ScriptTitle = ".gg/JF86EWBhgx"
 
 -- LOADING SCREEN
 if LoadingScreen ~= false then
